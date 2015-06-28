@@ -1,9 +1,15 @@
-# Flac to mp3 converter
+# Flac to mp3 converter (windows only)
+
+Works from command line
+
 Using is quite simple: just correct album and artist names and run.
 
 ## Links to executables
+
 [FLAC](https://xiph.org/flac/download.html)
+
 [Lame](http://lame.sourceforge.net/download.php)
+
 [id3](http://blog.forret.com/2007/08/id3exe-ideal-tool-for-tagging-and-renaming-mp3-files/)
 
 ## License
